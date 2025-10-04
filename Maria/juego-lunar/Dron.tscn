@@ -1,0 +1,84 @@
+[gd_scene load_steps=5 format=3 uid="uid://j1q0dkgste4i"]
+
+[ext_resource type="Texture2D" uid="uid://b7jnxval6wso4" path="res://Robot1-removebg-preview.png" id="1_vkjx5"]
+
+[sub_resource type="GDScript" id="GDScript_vkjx5"]
+script/source = "extends CharacterBody2D
+
+# --- VARIABLES ---
+@export var speed = 60.0
+@export var chase_speed = 90.0
+var direction = 1
+var player = null
+
+# LA LÍNEA CORREGIDA: Esto define PATRULLAR como 0 y PERSEGUIR como 1.
+enum { PATRULLAR, PERSEGUIR }
+var estado_actual = PATRULLAR
+
+
+# --- BUCLE PRINCIPAL DE FÍSICAS ---
+func _physics_process(delta):
+	match estado_actual:
+		PATRULLAR:
+			patrullar_set_velocity()
+		PERSEGUIR:
+			perseguir_set_velocity()
+	
+	move_and_slide()
+
+	if estado_actual == PATRULLAR:
+		if get_slide_collision_count() > 0:
+			direction *= -1
+			$Sprite2D.flip_h = not $Sprite2D.flip_h
+
+
+# --- LÓGICA DE LOS ESTADOS ---
+func patrullar_set_velocity():
+	velocity.x = direction * speed
+
+func perseguir_set_velocity():
+	if player != null:
+		var player_direction = global_position.direction_to(player.global_position)
+		velocity.x = player_direction.x * chase_speed
+		$Sprite2D.flip_h = velocity.x < 0
+	else:
+		estado_actual = PATRULLAR
+
+
+# --- SEÑAL DEL RADAR ---
+func _on_area_2d_body_entered(body):
+	if body.is_in_group(\"player\"):
+		player = body
+		# CORRECCIÓN 2: El estado debe cambiar a PERSEGUIR, no a patrullar.
+		estado_actual = PERSEGUIR
+"
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_vkjx5"]
+radius = 37.0
+height = 74.0
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_vkjx5"]
+radius = 14.444462
+
+[node name="CharacterBody2D" type="CharacterBody2D"]
+script = SubResource("GDScript_vkjx5")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(228, -297.99997)
+rotation = 0.00061804056
+scale = Vector2(0.2697719, 0.41898075)
+texture = ExtResource("1_vkjx5")
+metadata/_edit_group_ = true
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(225, -303)
+shape = SubResource("CapsuleShape2D_vkjx5")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(224, -303)
+scale = Vector2(-20.60472, 20.571596)
+shape = SubResource("CircleShape2D_vkjx5")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
