@@ -1,0 +1,12 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1759550496
+Astro11-removebg-preview.png::CompressedTexture2D::8186180399057685569::1759548654::1759550497::1::::<><><>0<>0<>27606526550f518d84574f6968507443<>res://.godot/imported/Astro11-removebg-preview.png-ad71bcb28ac61fa44a9266e74099bb5e.ctex::
+dron.png::CompressedTexture2D::1550926852430096652::1759548654::1759550497::1::::<><><>0<>0<>4e8aa46a3e0808066e70c2529e9faad8<>res://.godot/imported/dron.png-64f67a3613f05287bcd19144a91e7f51.ctex::
+Dron.tscn::PackedScene::686389704395245034::1759548654::0::1::::<><><>0<>0<><>::uid://b7jnxval6wso4::::res://Robot1-removebg-preview.png
+icon.svg::CompressedTexture2D::3132081570756117150::1759548654::1759550497::1::::<><><>0<>0<>20c214e91035f3d848bde64c384a7703<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Imagen de WhatsApp 2025-10-03 a las 18.12.33_047bb5af.png::CompressedTexture2D::4071347751861184417::1759548654::1759550497::1::::<><><>0<>0<>a3621f4936b0a7f098093706e08ec096<>res://.godot/imported/Imagen de WhatsApp 2025-10-03 a las 18.12.33_047bb5af.png-ef1d15d6d02868ac561aea0cdf964c56.ctex::
+Imagen de WhatsApp 2025-10-03 a las 18.29.20_4b80f0e2.jpg::CompressedTexture2D::3226422033369450208::1759548654::1759550497::1::::<><><>0<>0<>44934f95d0cc3e1cc413eac5da3ff965<>res://.godot/imported/Imagen de WhatsApp 2025-10-03 a las 18.29.20_4b80f0e2.jpg-f07281454d05e1de53329bf64f0b9163.ctex::
+jugador.tscn::PackedScene::9146644519953698592::1759548654::0::1::::<><><>0<>0<><>::uid://dovpgvuoy37qb::::res://Astro11-removebg-preview.png
+laboratorio_de_pruebas.tscn::PackedScene::1932008076055349080::1759548654::0::1::::<><><>0<>0<><>::uid://j1q0dkgste4i::::res://Dron.tscn<>uid://d3kx5tepki58g::::res://jugador.tscn
+player.gd::GDScript::6259080224916371678::1759548654::0::1::::<>CharacterBody2D<><>0<>0<><>::
+Robot1-removebg-preview.png::CompressedTexture2D::4651874577594907073::1759548654::1759550497::1::::<><><>0<>0<>77007c969b73805d99905f7d7ce6222b<>res://.godot/imported/Robot1-removebg-preview.png-f49c4d9fd6843f13ec5ed211cbaecfb7.ctex::
