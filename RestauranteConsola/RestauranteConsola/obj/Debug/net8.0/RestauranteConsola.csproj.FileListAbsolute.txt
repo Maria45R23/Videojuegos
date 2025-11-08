@@ -1,0 +1,14 @@
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\bin\Debug\net8.0\RestauranteConsola.exe
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\bin\Debug\net8.0\RestauranteConsola.deps.json
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\bin\Debug\net8.0\RestauranteConsola.runtimeconfig.json
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\bin\Debug\net8.0\RestauranteConsola.dll
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\bin\Debug\net8.0\RestauranteConsola.pdb
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\RestauranteConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\RestauranteConsola.AssemblyInfoInputs.cache
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\RestauranteConsola.AssemblyInfo.cs
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\RestauranteConsola.csproj.CoreCompileInputs.cache
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\RestauranteConsola.dll
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\refint\RestauranteConsola.dll
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\RestauranteConsola.pdb
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\RestauranteConsola.genruntimeconfig.cache
+C:\Users\Montoya\source\repos\RestauranteConsola\RestauranteConsola\obj\Debug\net8.0\ref\RestauranteConsola.dll
