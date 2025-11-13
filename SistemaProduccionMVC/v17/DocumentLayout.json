@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\models\\produccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\models\\produccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\models\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\models\\linea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\views\\produccion\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\views\\produccion\\detalle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\views\\produccion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\views\\produccion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\controllers\\produccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\controllers\\produccioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\views\\login\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\controllers\\logincontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\controllers\\logincontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|c:\\users\\maria\\source\\repos\\sistemaproduccionmvc\\sistemaproduccionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6609130E-379A-4784-907D-E1871DD8E4F6}|SistemaProduccionMVC\\SistemaProduccionMVC.csproj|solutionrelative:sistemaproduccionmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produccion.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Produccion.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Models\\Produccion.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Produccion.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Models\\Produccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:21:19.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Orden.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Models\\Orden.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Orden.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Models\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:21:06.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Linea.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Linea.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Models\\Linea.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Linea.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Models\\Linea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:20:55.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Rol.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:20:45.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Models\\Usuario.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:20:36.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\appsettings.json",
+              "RelativeToolTip": "SistemaProduccionMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T18:02:32.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Detalle.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Produccion\\Detalle.cshtml",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Views\\Produccion\\Detalle.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Produccion\\Detalle.cshtml",
+              "RelativeToolTip": "SistemaProduccionMVC\\Views\\Produccion\\Detalle.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T18:01:36.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Produccion\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Views\\Produccion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Produccion\\Index.cshtml",
+              "RelativeToolTip": "SistemaProduccionMVC\\Views\\Produccion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T18:01:14.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProduccionController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Controllers\\ProduccionController.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Controllers\\ProduccionController.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Controllers\\ProduccionController.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Controllers\\ProduccionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:59:36.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Login\\Register.cshtml",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Views\\Login\\Register.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Login\\Register.cshtml",
+              "RelativeToolTip": "SistemaProduccionMVC\\Views\\Login\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T17:58:29.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "SistemaProduccionMVC\\Views\\Login\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T17:58:11.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "SistemaProduccionMVC\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T17:57:55.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController1.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Controllers\\LoginController1.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Controllers\\LoginController1.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Controllers\\LoginController1.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Controllers\\LoginController1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:54:26.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SistemaProduccionMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T17:52:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SistemaProduccionMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maria\\source\\repos\\SistemaProduccionMVC\\SistemaProduccionMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SistemaProduccionMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T17:51:06.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
